@@ -1,1 +1,1 @@
-A really sick test program to demonstrate Git
+A really sick test program to demonstrate Git.
