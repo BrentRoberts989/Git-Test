@@ -1,4 +1,5 @@
 
+s = 5
 
-print("Hello Word!")
-print("Oops, I mispelled that")
+print("Hello World!")
+c = 10
