@@ -1,4 +1,3 @@
 
 
-print("Hello Word!")
-print("Oops, I mispelled that")
+print("Hello World!")
